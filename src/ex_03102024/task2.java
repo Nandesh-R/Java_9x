@@ -6,5 +6,6 @@ public class task2 {
         System.out.println(10-2);//Sub
         System.out.println(10*2);//Mul
         System.out.println(10/2);//Div
+        System.out.println(10%2);//Mod
     }
 }
