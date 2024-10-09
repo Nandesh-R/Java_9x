@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Lab002" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="lab001 on 08 Oct 24&#10;Include Data type usage">
+      <change afterPath="$PROJECT_DIR$/src/ex_09102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09102024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09102024/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08102024/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08102024/lab001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +58,12 @@
   "keyToString": {
     "Application.InputExample.executor": "Run",
     "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
     "Application.Oct.Lab001.executor": "Run",
     "Application.ex_07102024.task1.executor": "Run",
+    "Application.lab001.executor": "Run",
     "Application.task.executor": "Run",
     "Application.task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,13 +73,13 @@
     "onboarding.tips.debug.path": "C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Oct.Lab001">
-    <configuration name="InputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07102024.InputExample" />
+  <component name="RunManager" selected="Application.lab001">
+    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09102024.Lab001" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07102024.*" />
+          <option name="PATTERN" value="ex_09102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oct.Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.Lab001" />
+    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09102024.Lab002" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.*" />
+          <option name="PATTERN" value="ex_09102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_07102024.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07102024.task1" />
+    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09102024.Lab003" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07102024.*" />
+          <option name="PATTERN" value="ex_09102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03102024.task1" />
+    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09102024.Lab004" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03102024.*" />
+          <option name="PATTERN" value="ex_09102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03102024.task2" />
+    <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08102024.lab001" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03102024.*" />
+          <option name="PATTERN" value="ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Oct.Lab001" />
-        <item itemvalue="Application.ex_07102024.task1" />
-        <item itemvalue="Application.InputExample" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.lab001" />
+        <item itemvalue="Application.Lab004" />
+        <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab002" />
+        <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +214,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728341578035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added a Dummy file">
+      <option name="closed" value="true" />
+      <created>1728345955511</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728345955511</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Removed a Dummy file">
+      <option name="closed" value="true" />
+      <created>1728346111784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728346111784</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lab001 on 08 Oct 24&#10;Include Data type usage">
+      <option name="closed" value="true" />
+      <created>1728393713894</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728393713894</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +270,9 @@
     <MESSAGE value="Readme update" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="Added a Dummy file" />
+    <MESSAGE value="Removed a Dummy file" />
+    <MESSAGE value="lab001 on 08 Oct 24&#10;Include Data type usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab001 on 08 Oct 24&#10;Include Data type usage" />
   </component>
 </project>
