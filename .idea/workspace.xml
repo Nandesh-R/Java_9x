@@ -4,67 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="09 Oct 24&#10;Class Activities&#10;Table of 6 with printf cmd">
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14102024/lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab001_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab002_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab005_oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab006_if_elseif_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Task001_GradeCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Task002_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/L003_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Lab002_Arguments_console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task1_simplecalci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task2_month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task3_simpleConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab010_oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab013.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Adding Class Activities &amp; Tasks from 10th Oct 24">
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Lab007_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Task1_reverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Task2_vowlesandConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Task3_palindromeofstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab010_oddeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab010_oddeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21102024/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21102024_forLoop/Lab013.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +52,12 @@
     &quot;assignee&quot;: &quot;Nandesh-R&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Nandesh-R/Java1.git&quot;,
-    &quot;accountId&quot;: &quot;80eafd5b-a126-4dd0-9464-e4750845ea89&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nandesh-R/Java_9x.git",
+    "accountId": "e0aa4539-1464-4505-af09-a2307c96ebb8"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Lab001.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -125,14 +89,19 @@
     "Application.Lab006.executor": "Run",
     "Application.Lab006_if_elseif_else.executor": "Run",
     "Application.Lab007.executor": "Run",
+    "Application.Lab007_doWhile.executor": "Run",
     "Application.Lab008.executor": "Run",
     "Application.Lab009.executor": "Run",
+    "Application.Lab013.executor": "Run",
     "Application.Oct.Lab001.executor": "Run",
     "Application.Task001_GradeCalc.executor": "Run",
     "Application.Task002_triangle.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task1_reverseNumber.executor": "Run",
     "Application.Task1_simplecalci.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.Task2_vowlesandConstants.executor": "Run",
+    "Application.Task3_palindromeofstring.executor": "Run",
     "Application.Task3_simpleConversion.executor": "Run",
     "Application.ex_07102024.task1.executor": "Run",
     "Application.ex_11102024.Lab001.executor": "Run",
@@ -142,6 +111,7 @@
     "Application.ex_15102024.Lab006.executor": "Run",
     "Application.ex_17102024_conditionloops.Task1.executor": "Run",
     "Application.ex_21102024.Lab006.executor": "Run",
+    "Application.ex_22102024_whileloop.Lab006.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab003.executor": "Run",
     "Application.task.executor": "Run",
@@ -153,13 +123,13 @@
     "onboarding.tips.debug.path": "C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab013">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab001" />
+  <component name="RunManager" selected="Application.Task2_vowlesandConstants">
+    <configuration name="Lab007_doWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Lab007_doWhile" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21102024.*" />
+          <option name="PATTERN" value="ex_22102024_whileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab013" />
+    <configuration name="Task1_reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Task1_reverseNumber" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21102024.*" />
+          <option name="PATTERN" value="ex_22102024_whileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_simplecalci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18102024_Switch_condi.Task1_simplecalci" />
+    <configuration name="Task2_vowlesandConstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Task2_vowlesandConstants" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18102024_Switch_condi.*" />
+          <option name="PATTERN" value="ex_22102024_whileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3_simpleConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18102024_Switch_condi.Task3_simpleConversion" />
+    <configuration name="Task3_palindromeofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Task3_palindromeofstring" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18102024_Switch_condi.*" />
+          <option name="PATTERN" value="ex_22102024_whileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_21102024.Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab006" />
+    <configuration name="ex_22102024_whileloop.Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Lab006" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21102024.*" />
+          <option name="PATTERN" value="ex_22102024_whileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,19 +190,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab001" />
-      <item itemvalue="Application.Lab013" />
-      <item itemvalue="Application.Task1_simplecalci" />
-      <item itemvalue="Application.Task3_simpleConversion" />
-      <item itemvalue="Application.ex_21102024.Lab006" />
+      <item itemvalue="Application.Lab007_doWhile" />
+      <item itemvalue="Application.Task1_reverseNumber" />
+      <item itemvalue="Application.Task2_vowlesandConstants" />
+      <item itemvalue="Application.Task3_palindromeofstring" />
+      <item itemvalue="Application.ex_22102024_whileloop.Lab006" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab013" />
-        <item itemvalue="Application.ex_21102024.Lab006" />
-        <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Task3_simpleConversion" />
-        <item itemvalue="Application.Task1_simplecalci" />
+        <item itemvalue="Application.Task2_vowlesandConstants" />
+        <item itemvalue="Application.Task3_palindromeofstring" />
+        <item itemvalue="Application.Task1_reverseNumber" />
+        <item itemvalue="Application.Lab007_doWhile" />
+        <item itemvalue="Application.ex_22102024_whileloop.Lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +311,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728489576388</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adding Class Activities &amp; Tasks from 10th Oct 24">
+      <option name="closed" value="true" />
+      <created>1729661027435</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729661027435</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding Class Activities &amp; Tasks from 10th Oct 24">
+      <option name="closed" value="true" />
+      <created>1729661131853</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729661131853</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,6 +364,7 @@
     <MESSAGE value="lab001 on 08 Oct 24&#10;Include Data type usage" />
     <MESSAGE value="09 Oct 24&#10;Class Activities" />
     <MESSAGE value="09 Oct 24&#10;Class Activities&#10;Table of 6 with printf cmd" />
-    <option name="LAST_COMMIT_MESSAGE" value="09 Oct 24&#10;Class Activities&#10;Table of 6 with printf cmd" />
+    <MESSAGE value="Adding Class Activities &amp; Tasks from 10th Oct 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Class Activities &amp; Tasks from 10th Oct 24" />
   </component>
 </project>

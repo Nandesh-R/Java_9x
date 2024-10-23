@@ -1,4 +1,4 @@
-package ex_21102024;
+package ex_21102024_forLoop;
 
 public class Lab010_oddeven {
     public static void main(String[] args) {
