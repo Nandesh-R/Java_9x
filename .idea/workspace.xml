@@ -5,12 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="09 Oct 24&#10;Class Activities&#10;Table of 6 with printf cmd">
-      <change afterPath="$PROJECT_DIR$/src/ex_09102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11102024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14102024/lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab001_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab002_if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab005_oddeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab006_if_elseif_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Task001_GradeCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_IfCondition/Task002_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/L003_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Lab002_Arguments_console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024_conditionloops/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task1_simplecalci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task2_month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18102024_Switch_condi/Task3_simpleConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab010_oddeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21102024/Lab013.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,34 +111,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.InputExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oct.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex_07102024.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InputExample.executor": "Run",
+    "Application.L003_Scanner.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab002_Arguments_console.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab005_oddeven.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab006_if_elseif_else.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Oct.Lab001.executor": "Run",
+    "Application.Task001_GradeCalc.executor": "Run",
+    "Application.Task002_triangle.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task1_simplecalci.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3_simpleConversion.executor": "Run",
+    "Application.ex_07102024.task1.executor": "Run",
+    "Application.ex_11102024.Lab001.executor": "Run",
+    "Application.ex_15102024.Lab001.executor": "Run",
+    "Application.ex_15102024.Lab002.executor": "Run",
+    "Application.ex_15102024.Lab004.executor": "Run",
+    "Application.ex_15102024.Lab006.executor": "Run",
+    "Application.ex_17102024_conditionloops.Task1.executor": "Run",
+    "Application.ex_21102024.Lab006.executor": "Run",
+    "Application.lab001.executor": "Run",
+    "Application.lab003.executor": "Run",
+    "Application.task.executor": "Run",
+    "Application.task2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab007">
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10102024.Lab003" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lab013">
+    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab001" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10102024.*" />
+          <option name="PATTERN" value="ex_21102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10102024.Lab004" />
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab013" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10102024.*" />
+          <option name="PATTERN" value="ex_21102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10102024.Lab005" />
+    <configuration name="Task1_simplecalci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18102024_Switch_condi.Task1_simplecalci" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10102024.*" />
+          <option name="PATTERN" value="ex_18102024_Switch_condi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10102024.Lab006" />
+    <configuration name="Task3_simpleConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18102024_Switch_condi.Task3_simpleConversion" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10102024.*" />
+          <option name="PATTERN" value="ex_18102024_Switch_condi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10102024.Lab007" />
+    <configuration name="ex_21102024.Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21102024.Lab006" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10102024.*" />
+          <option name="PATTERN" value="ex_21102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +219,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab001" />
+      <item itemvalue="Application.Lab013" />
+      <item itemvalue="Application.Task1_simplecalci" />
+      <item itemvalue="Application.Task3_simpleConversion" />
+      <item itemvalue="Application.ex_21102024.Lab006" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab007" />
-        <item itemvalue="Application.Lab006" />
-        <item itemvalue="Application.Lab005" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.ex_21102024.Lab006" />
+        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Task3_simpleConversion" />
+        <item itemvalue="Application.Task1_simplecalci" />
       </list>
     </recent_temporary>
   </component>
