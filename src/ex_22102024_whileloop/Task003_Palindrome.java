@@ -1,7 +1,7 @@
 package ex_22102024_whileloop;
 
 import java.util.Scanner;
-public class Task2_vowlesandConstants {
+public class Task003_Palindrome {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

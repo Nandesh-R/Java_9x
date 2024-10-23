@@ -13,7 +13,7 @@ public class Task_calci_usingFunction {
         System.out.println("sum is: " + mul(a,b));
         System.out.println("sum is: " + div(a,b));
     }
-
+//return type sum
     static int sum(int a, int b){
         return a + b;
     }
