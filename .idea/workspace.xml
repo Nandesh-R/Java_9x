@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Adding Class Activities &amp; Tasks for 22th Oct 24">
-      <change afterPath="$PROJECT_DIR$/src/ex_23102024_functions/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23102024_functions/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23102024_functions/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23102024_functions/Task_calci_usingFunction.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="23rd Oct on  class activities &amp; Task">
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab002_stringcreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab001_StringFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab002_StringBuffer_StringBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024_whileloop/Task003_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22102024_whileloop/Task003_Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +100,9 @@
     "Application.ex_21102024.Lab006.executor": "Run",
     "Application.ex_22102024_whileloop.Lab001.executor": "Run",
     "Application.ex_22102024_whileloop.Lab006.executor": "Run",
+    "Application.ex_24102024.Lab002.executor": "Run",
+    "Application.ex_25102024.Lab001.executor": "Run",
+    "Application.ex_25102024.Lab002.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab003.executor": "Run",
     "Application.task.executor": "Run",
@@ -105,16 +111,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Nandesh_Ramachandra/IdeaProjects/Java1/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_calci_usingFunction">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23102024_functions.Lab001" />
+  <component name="RunManager" selected="Application.Lab002_StringBuffer_StringBuilder">
+    <configuration name="Lab001_StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28102024.Lab001_StringFunctions" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23102024_functions.*" />
+          <option name="PATTERN" value="ex_28102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23102024_functions.Lab002" />
+    <configuration name="Lab002_StringBuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28102024.Lab002_StringBuffer_StringBuilder" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23102024_functions.*" />
+          <option name="PATTERN" value="ex_28102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task003_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Task003_Palindrome" />
+    <configuration name="Lab002_stringcreated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25102024.Lab002_stringcreated" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="ex_25102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_calci_usingFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23102024_functions.Task_calci_usingFunction" />
+    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25102024.Lab003" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23102024_functions.*" />
+          <option name="PATTERN" value="ex_25102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_22102024_whileloop.Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_22102024_whileloop.Lab001" />
+    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25102024.Lab004" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="ex_25102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +182,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab001" />
-      <item itemvalue="Application.Lab002" />
-      <item itemvalue="Application.Task003_Palindrome" />
-      <item itemvalue="Application.Task_calci_usingFunction" />
-      <item itemvalue="Application.ex_22102024_whileloop.Lab001" />
+      <item itemvalue="Application.Lab002_StringBuffer_StringBuilder" />
+      <item itemvalue="Application.Lab002_stringcreated" />
+      <item itemvalue="Application.Lab003" />
+      <item itemvalue="Application.Lab004" />
+      <item itemvalue="Application.Lab001_StringFunctions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_calci_usingFunction" />
-        <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Lab002" />
-        <item itemvalue="Application.Task003_Palindrome" />
-        <item itemvalue="Application.ex_22102024_whileloop.Lab001" />
+        <item itemvalue="Application.Lab002_StringBuffer_StringBuilder" />
+        <item itemvalue="Application.Lab001_StringFunctions" />
+        <item itemvalue="Application.Lab004" />
+        <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab002_stringcreated" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +335,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729671066063</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task of 24th Oct on function">
+      <option name="closed" value="true" />
+      <created>1729727095719</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729727095719</updated>
+    </task>
+    <task id="LOCAL-00018" summary="23rd Oct on  class activities &amp; Task">
+      <option name="closed" value="true" />
+      <created>1729727254818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729727254818</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,6 +390,8 @@
     <MESSAGE value="09 Oct 24&#10;Class Activities&#10;Table of 6 with printf cmd" />
     <MESSAGE value="Adding Class Activities &amp; Tasks from 10th Oct 24" />
     <MESSAGE value="Adding Class Activities &amp; Tasks for 22th Oct 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Class Activities &amp; Tasks for 22th Oct 24" />
+    <MESSAGE value="Task of 24th Oct on function" />
+    <MESSAGE value="23rd Oct on  class activities &amp; Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd Oct on  class activities &amp; Task" />
   </component>
 </project>
