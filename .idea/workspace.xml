@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="23rd Oct on  class activities &amp; Task">
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab002_stringcreated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab001_StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab002_StringBuffer_StringBuilder.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Task on 28th Oct">
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Lab003_arrayStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Lab004_Array_Itterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Lab005_MaxMinValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +64,13 @@
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab002_Arguments_console.executor": "Run",
+    "Application.Lab002_StringBuffer_StringBuilder.executor": "Run",
     "Application.Lab003.executor": "Run",
+    "Application.Lab003_arrayStrings.executor": "Run",
     "Application.Lab004.executor": "Run",
+    "Application.Lab004_Array_Itterate.executor": "Run",
     "Application.Lab005.executor": "Run",
+    "Application.Lab005_MaxMinValue.executor": "Run",
     "Application.Lab005_oddeven.executor": "Run",
     "Application.Lab006.executor": "Run",
     "Application.Lab006_if_elseif_else.executor": "Run",
@@ -82,7 +83,7 @@
     "Application.Task001_GradeCalc.executor": "Run",
     "Application.Task002_triangle.executor": "Run",
     "Application.Task003_Palindrome.executor": "Run",
-    "Application.Task1.executor": "Run",
+    "Application.Task1.executor": "Debug",
     "Application.Task1_reverseNumber.executor": "Run",
     "Application.Task1_simplecalci.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -115,13 +116,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Lab001_StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28102024.Lab001_StringFunctions" />
+  <component name="RunManager" selected="Application.Lab007_Userinput">
+    <configuration name="Lab003_arrayStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab003_arrayStrings" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28102024.*" />
+          <option name="PATTERN" value="ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002_StringBuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28102024.Lab002_StringBuffer_StringBuilder" />
+    <configuration name="Lab004_Array_Itterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab004_Array_Itterate" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28102024.*" />
+          <option name="PATTERN" value="ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25102024.Lab003" />
+    <configuration name="Lab005_MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab005_MaxMinValue" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25102024.*" />
+          <option name="PATTERN" value="ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25102024.Lab004" />
+    <configuration name="Lab006Nandexr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab006Nandexr" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25102024.*" />
+          <option name="PATTERN" value="ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28102024.Task1" />
+    <configuration name="Lab007_Userinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab007_Userinput" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28102024.*" />
+          <option name="PATTERN" value="ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab002_StringBuffer_StringBuilder" />
-      <item itemvalue="Application.Lab003" />
-      <item itemvalue="Application.Lab004" />
-      <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.Lab001_StringFunctions" />
+      <item itemvalue="Application.Lab003_arrayStrings" />
+      <item itemvalue="Application.Lab004_Array_Itterate" />
+      <item itemvalue="Application.Lab005_MaxMinValue" />
+      <item itemvalue="Application.Lab006Nandexr" />
+      <item itemvalue="Application.Lab007_Userinput" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Lab002_StringBuffer_StringBuilder" />
-        <item itemvalue="Application.Lab001_StringFunctions" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab007_Userinput" />
+        <item itemvalue="Application.Lab006Nandexr" />
+        <item itemvalue="Application.Lab005_MaxMinValue" />
+        <item itemvalue="Application.Lab004_Array_Itterate" />
+        <item itemvalue="Application.Lab003_arrayStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +352,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729727254818</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="24, 25 &amp; 28 Oct &gt; class activities">
+      <option name="closed" value="true" />
+      <created>1730120660353</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120660353</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task on 28th Oct">
+      <option name="closed" value="true" />
+      <created>1730120815087</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120815087</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,6 +409,8 @@
     <MESSAGE value="Adding Class Activities &amp; Tasks for 22th Oct 24" />
     <MESSAGE value="Task of 24th Oct on function" />
     <MESSAGE value="23rd Oct on  class activities &amp; Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="23rd Oct on  class activities &amp; Task" />
+    <MESSAGE value="24, 25 &amp; 28 Oct &gt; class activities" />
+    <MESSAGE value="Task on 28th Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task on 28th Oct" />
   </component>
 </project>
