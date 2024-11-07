@@ -5,7 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Exercise on 29th Oct">
-      <change afterPath="$PROJECT_DIR$/src/ex_29102024_Arrays/Task1_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab001_oops_object_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab002_Object_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab002_StudentsATB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/task_oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/Paramiteroised_constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/car1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/construct_test_default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Lab001_SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/Programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/main_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/python_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Common_BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Main_testcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Testcase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/main_func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Mother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +64,7 @@
     <setting file="file://$PROJECT_DIR$/src/Lab001.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -57,8 +82,12 @@
     "Application.InputExample.executor": "Run",
     "Application.L003_Scanner.executor": "Run",
     "Application.Lab001.executor": "Run",
+    "Application.Lab001_SingleInheritance.executor": "Run",
+    "Application.Lab001_oops_object_class.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab002_Arguments_console.executor": "Run",
+    "Application.Lab002_Object_class (1).executor": "Run",
+    "Application.Lab002_Object_class.executor": "Run",
     "Application.Lab002_StringBuffer_StringBuilder.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab003_arrayStrings.executor": "Run",
@@ -76,7 +105,9 @@
     "Application.Lab008.executor": "Run",
     "Application.Lab009.executor": "Run",
     "Application.Lab013.executor": "Run",
+    "Application.Main_testcase.executor": "Run",
     "Application.Oct.Lab001.executor": "Run",
+    "Application.Paramiteroised_constructor.executor": "Run",
     "Application.Task001_GradeCalc.executor": "Run",
     "Application.Task002_triangle.executor": "Run",
     "Application.Task003_Palindrome.executor": "Run",
@@ -89,6 +120,7 @@
     "Application.Task3_palindromeofstring.executor": "Run",
     "Application.Task3_simpleConversion.executor": "Run",
     "Application.Task_calci_usingFunction.executor": "Run",
+    "Application.construct_test.executor": "Run",
     "Application.ex_07102024.task1.executor": "Run",
     "Application.ex_11102024.Lab001.executor": "Run",
     "Application.ex_15102024.Lab001.executor": "Run",
@@ -104,6 +136,8 @@
     "Application.ex_25102024.Lab002.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab003.executor": "Run",
+    "Application.main_func.executor": "Run",
+    "Application.main_method.executor": "Run",
     "Application.task.executor": "Run",
     "Application.task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -114,13 +148,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1_Duplicate">
-    <configuration name="Lab004_Array_Itterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab004_Array_Itterate" />
+  <component name="RunManager" selected="Application.main_func">
+    <configuration name="Lab001_SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example1.Lab001_SingleInheritance" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab005_MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab005_MaxMinValue" />
+    <configuration name="Main_testcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example3.Main_testcase" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006Nandexr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab006Nandexr" />
+    <configuration name="Paramiteroised_constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_06112024_constructor.Paramiteroised_constructor" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Nov.ex_06112024_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007_Userinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Lab007_Userinput" />
+    <configuration name="main_func" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.MultiLevel.main_func" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.MultiLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_29102024_Arrays.Task1_Duplicate" />
+    <configuration name="main_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example2.main_method" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab004_Array_Itterate" />
-      <item itemvalue="Application.Lab005_MaxMinValue" />
-      <item itemvalue="Application.Lab006Nandexr" />
-      <item itemvalue="Application.Lab007_Userinput" />
-      <item itemvalue="Application.Task1_Duplicate" />
+      <item itemvalue="Application.Lab001_SingleInheritance" />
+      <item itemvalue="Application.Main_testcase" />
+      <item itemvalue="Application.Paramiteroised_constructor" />
+      <item itemvalue="Application.main_func" />
+      <item itemvalue="Application.main_method" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1_Duplicate" />
-        <item itemvalue="Application.Lab007_Userinput" />
-        <item itemvalue="Application.Lab006Nandexr" />
-        <item itemvalue="Application.Lab005_MaxMinValue" />
-        <item itemvalue="Application.Lab004_Array_Itterate" />
+        <item itemvalue="Application.main_func" />
+        <item itemvalue="Application.Main_testcase" />
+        <item itemvalue="Application.main_method" />
+        <item itemvalue="Application.Lab001_SingleInheritance" />
+        <item itemvalue="Application.Paramiteroised_constructor" />
       </list>
     </recent_temporary>
   </component>
