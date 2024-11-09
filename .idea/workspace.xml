@@ -4,32 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Exercise on 29th Oct">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab001_oops_object_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab002_Object_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab002_StudentsATB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/task_oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/Paramiteroised_constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/car1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_constructor/construct_test_default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Lab001_SingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example1/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/main_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example2/python_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Common_BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Main_testcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Testcase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/Example3/Testcase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultiLevel/main_func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritance/MultipleInheritance/Mother.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Classes of OOps is getting updated with excercise &amp; Practice">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Nand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Prath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverRiding/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverRiding/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverloading/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab002_getter_setter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab002_phoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +66,22 @@
   "keyToString": {
     "Application.InputExample.executor": "Run",
     "Application.L003_Scanner.executor": "Run",
+    "Application.Lab001 (1).executor": "Run",
+    "Application.Lab001 (2).executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab001_SingleInheritance.executor": "Run",
     "Application.Lab001_oops_object_class.executor": "Run",
+    "Application.Lab002 (1).executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab002_Arguments_console.executor": "Run",
     "Application.Lab002_Object_class (1).executor": "Run",
     "Application.Lab002_Object_class.executor": "Run",
     "Application.Lab002_StringBuffer_StringBuilder.executor": "Run",
+    "Application.Lab002_getter_setter.executor": "Run",
+    "Application.Lab002_phoneNumber (1).executor": "Run",
+    "Application.Lab002_phoneNumber (2).executor": "Run",
+    "Application.Lab002_phoneNumber (3).executor": "Run",
+    "Application.Lab002_phoneNumber.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab003_arrayStrings.executor": "Run",
     "Application.Lab004.executor": "Run",
@@ -106,6 +99,18 @@
     "Application.Lab009.executor": "Run",
     "Application.Lab013.executor": "Run",
     "Application.Main_testcase.executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverRiding.Lab001 (1).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverRiding.Lab001 (2).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverRiding.Lab001 (3).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverRiding.Lab001.executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverloading.Lab001 (1).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverloading.Lab001 (2).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverloading.Lab001 (3).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverloading.Lab001 (4).executor": "Run",
+    "Application.Nov.ex_08112024_Polymorphisim.MethodOverloading.Lab001.executor": "Run",
+    "Application.Nov.ex_09112024_Encapsulation.Lab001 (1).executor": "Run",
+    "Application.Nov.ex_09112024_Encapsulation.Lab001 (2).executor": "Run",
+    "Application.Nov.ex_09112024_Encapsulation.Lab001.executor": "Run",
     "Application.Oct.Lab001.executor": "Run",
     "Application.Paramiteroised_constructor.executor": "Run",
     "Application.Task001_GradeCalc.executor": "Run",
@@ -148,13 +153,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main_func">
-    <configuration name="Lab001_SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example1.Lab001_SingleInheritance" />
+  <component name="RunManager" selected="Application.Lab002_phoneNumber (3)">
+    <configuration name="Lab002_getter_setter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_getter_setter" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example1.*" />
+          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_testcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example3.Main_testcase" />
+    <configuration name="Lab002_phoneNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_phoneNumber" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example3.*" />
+          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Paramiteroised_constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_06112024_constructor.Paramiteroised_constructor" />
+    <configuration name="Lab002_phoneNumber (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_phoneNumber" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_06112024_constructor.*" />
+          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main_func" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.MultiLevel.main_func" />
+    <configuration name="Lab002_phoneNumber (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_phoneNumber" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.MultiLevel.*" />
+          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_07112024_Inheritance.Example2.main_method" />
+    <configuration name="Lab002_phoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_phoneNumber" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_07112024_Inheritance.Example2.*" />
+          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab001_SingleInheritance" />
-      <item itemvalue="Application.Main_testcase" />
-      <item itemvalue="Application.Paramiteroised_constructor" />
-      <item itemvalue="Application.main_func" />
-      <item itemvalue="Application.main_method" />
+      <item itemvalue="Application.Lab002_getter_setter" />
+      <item itemvalue="Application.Lab002_phoneNumber" />
+      <item itemvalue="Application.Lab002_phoneNumber (1)" />
+      <item itemvalue="Application.Lab002_phoneNumber (2)" />
+      <item itemvalue="Application.Lab002_phoneNumber (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main_func" />
-        <item itemvalue="Application.Main_testcase" />
-        <item itemvalue="Application.main_method" />
-        <item itemvalue="Application.Lab001_SingleInheritance" />
-        <item itemvalue="Application.Paramiteroised_constructor" />
+        <item itemvalue="Application.Lab002_phoneNumber (3)" />
+        <item itemvalue="Application.Lab002_phoneNumber (2)" />
+        <item itemvalue="Application.Lab002_phoneNumber (1)" />
+        <item itemvalue="Application.Lab002_phoneNumber" />
+        <item itemvalue="Application.Lab002_getter_setter" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730204495146</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Classes of OOps is getting updated with excercise &amp; Practice">
+      <option name="closed" value="true" />
+      <created>1730983583774</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730983583774</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +473,7 @@
     <MESSAGE value="24, 25 &amp; 28 Oct &gt; class activities" />
     <MESSAGE value="Task on 28th Oct" />
     <MESSAGE value="Exercise on 29th Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise on 29th Oct" />
+    <MESSAGE value="Classes of OOps is getting updated with excercise &amp; Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes of OOps is getting updated with excercise &amp; Practice" />
   </component>
 </project>
