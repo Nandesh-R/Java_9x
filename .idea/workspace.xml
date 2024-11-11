@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Classes of OOps is getting updated with excercise &amp; Practice">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Nand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Hirarical/Prath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverRiding/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverRiding/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphisim/MethodOverloading/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab002_getter_setter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_09112024_Encapsulation/Lab002_phoneNumber.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Class on 8th oct with OOP's Polymorphisim &amp; encapsulation concepts&#10;adding class excercise">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/Real/Baseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/Real/Testcase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/Real/Testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/criminal/Theif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_encap2_AM/police/Jrcop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +122,7 @@
     "Application.Task3_palindromeofstring.executor": "Run",
     "Application.Task3_simpleConversion.executor": "Run",
     "Application.Task_calci_usingFunction.executor": "Run",
+    "Application.Theif.executor": "Run",
     "Application.construct_test.executor": "Run",
     "Application.ex_07102024.task1.executor": "Run",
     "Application.ex_11102024.Lab001.executor": "Run",
@@ -153,13 +151,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab002_phoneNumber (3)">
-    <configuration name="Lab002_getter_setter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_getter_setter" />
+  <component name="RunManager" selected="Application.Lab001">
+    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_11112024_encap2_AM.Lab001" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
+          <option name="PATTERN" value="Nov.ex_11112024_encap2_AM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002_phoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_09112024_Encapsulation.Lab002_phoneNumber" />
+    <configuration name="Theif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_11112024_encap2_AM.criminal.Theif" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_09112024_Encapsulation.*" />
+          <option name="PATTERN" value="Nov.ex_11112024_encap2_AM.criminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab002_getter_setter" />
-      <item itemvalue="Application.Lab002_phoneNumber" />
+      <item itemvalue="Application.Lab001" />
       <item itemvalue="Application.Lab002_phoneNumber (1)" />
       <item itemvalue="Application.Lab002_phoneNumber (2)" />
       <item itemvalue="Application.Lab002_phoneNumber (3)" />
+      <item itemvalue="Application.Theif" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Theif" />
         <item itemvalue="Application.Lab002_phoneNumber (3)" />
         <item itemvalue="Application.Lab002_phoneNumber (2)" />
         <item itemvalue="Application.Lab002_phoneNumber (1)" />
-        <item itemvalue="Application.Lab002_phoneNumber" />
-        <item itemvalue="Application.Lab002_getter_setter" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730983583774</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Class on 8th oct with OOP's Polymorphisim &amp; encapsulation concepts&#10;adding class excercise">
+      <option name="closed" value="true" />
+      <created>1731135864029</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731135864029</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,6 +480,7 @@
     <MESSAGE value="Task on 28th Oct" />
     <MESSAGE value="Exercise on 29th Oct" />
     <MESSAGE value="Classes of OOps is getting updated with excercise &amp; Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes of OOps is getting updated with excercise &amp; Practice" />
+    <MESSAGE value="Class on 8th oct with OOP's Polymorphisim &amp; encapsulation concepts&#10;adding class excercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class on 8th oct with OOP's Polymorphisim &amp; encapsulation concepts&#10;adding class excercise" />
   </component>
 </project>
