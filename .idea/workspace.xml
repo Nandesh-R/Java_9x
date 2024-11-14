@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Class on 11th Lab excercise">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab001_Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab002_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab003_AbstractExample.java" afterDir="false" />
+    <list default="true" id="607cb282-3400-44ff-84a7-18c1cdc8c66f" name="Changes" comment="Class on 12th Lab excercise">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/APIConstantEndPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab001_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab002_Static_IIB_SIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab003_StaticReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab005_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab006_Enum_URLS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab007_enumapiconstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exception/Lab008_enumP3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +70,8 @@
     "Application.Lab001 (2).executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab001_SingleInheritance.executor": "Run",
+    "Application.Lab001_Static (1).executor": "Run",
+    "Application.Lab001_Static.executor": "Run",
     "Application.Lab001_Super (1).executor": "Run",
     "Application.Lab001_Super (2).executor": "Run",
     "Application.Lab001_Super (3).executor": "Run",
@@ -75,6 +84,8 @@
     "Application.Lab002_Arguments_console.executor": "Run",
     "Application.Lab002_Object_class (1).executor": "Run",
     "Application.Lab002_Object_class.executor": "Run",
+    "Application.Lab002_Static_IIB_SIB (1).executor": "Run",
+    "Application.Lab002_Static_IIB_SIB.executor": "Run",
     "Application.Lab002_StringBuffer_StringBuilder.executor": "Run",
     "Application.Lab002_getter_setter.executor": "Run",
     "Application.Lab002_phoneNumber (1).executor": "Run",
@@ -83,19 +94,29 @@
     "Application.Lab002_phoneNumber.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab003_AbstractExample.executor": "Run",
+    "Application.Lab003_StaticReal.executor": "Run",
     "Application.Lab003_arrayStrings.executor": "Run",
+    "Application.Lab004 (1).executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab004_Array_Itterate.executor": "Run",
     "Application.Lab005.executor": "Run",
+    "Application.Lab005_ENUM.executor": "Run",
     "Application.Lab005_MaxMinValue.executor": "Run",
     "Application.Lab005_oddeven.executor": "Run",
     "Application.Lab006.executor": "Run",
     "Application.Lab006Nandexr.executor": "Run",
+    "Application.Lab006_Enum_URLS (1).executor": "Run",
+    "Application.Lab006_Enum_URLS (2).executor": "Run",
+    "Application.Lab006_Enum_URLS.executor": "Run",
     "Application.Lab006_if_elseif_else.executor": "Run",
     "Application.Lab007.executor": "Run",
     "Application.Lab007_Userinput.executor": "Run",
     "Application.Lab007_doWhile.executor": "Run",
+    "Application.Lab007_enumapiconstants.executor": "Run",
     "Application.Lab008.executor": "Run",
+    "Application.Lab008_enumP3 (1).executor": "Run",
+    "Application.Lab008_enumP3 (2).executor": "Run",
+    "Application.Lab008_enumP3.executor": "Run",
     "Application.Lab009.executor": "Run",
     "Application.Lab013.executor": "Run",
     "Application.Main_testcase.executor": "Run",
@@ -154,13 +175,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab003_AbstractExample">
-    <configuration name="Lab001_Super (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_SuperKeyword_Abstraction.Lab001_Super" />
+  <component name="RunManager" selected="Application.Lab008_enumP3">
+    <configuration name="Lab006_Enum_URLS (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exception.Lab006_Enum_URLS" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_12112024_SuperKeyword_Abstraction.*" />
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab001_Super (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_SuperKeyword_Abstraction.Lab001_Super" />
+    <configuration name="Lab007_enumapiconstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exception.Lab007_enumapiconstants" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_12112024_SuperKeyword_Abstraction.*" />
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab001_Super (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_SuperKeyword_Abstraction.Lab001_Super" />
+    <configuration name="Lab008_enumP3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exception.Lab008_enumP3" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_12112024_SuperKeyword_Abstraction.*" />
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab001_Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_SuperKeyword_Abstraction.Lab001_Super" />
+    <configuration name="Lab008_enumP3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exception.Lab008_enumP3" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_12112024_SuperKeyword_Abstraction.*" />
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003_AbstractExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_SuperKeyword_Abstraction.Lab003_AbstractExample" />
+    <configuration name="Lab008_enumP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exception.Lab008_enumP3" />
       <module name="Java_9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov.ex_12112024_SuperKeyword_Abstraction.*" />
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,19 +242,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab001_Super" />
-      <item itemvalue="Application.Lab001_Super (3)" />
-      <item itemvalue="Application.Lab001_Super (4)" />
-      <item itemvalue="Application.Lab001_Super (5)" />
-      <item itemvalue="Application.Lab003_AbstractExample" />
+      <item itemvalue="Application.Lab006_Enum_URLS (2)" />
+      <item itemvalue="Application.Lab007_enumapiconstants" />
+      <item itemvalue="Application.Lab008_enumP3" />
+      <item itemvalue="Application.Lab008_enumP3 (1)" />
+      <item itemvalue="Application.Lab008_enumP3 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab003_AbstractExample" />
-        <item itemvalue="Application.Lab001_Super" />
-        <item itemvalue="Application.Lab001_Super (5)" />
-        <item itemvalue="Application.Lab001_Super (4)" />
-        <item itemvalue="Application.Lab001_Super (3)" />
+        <item itemvalue="Application.Lab008_enumP3" />
+        <item itemvalue="Application.Lab008_enumP3 (2)" />
+        <item itemvalue="Application.Lab008_enumP3 (1)" />
+        <item itemvalue="Application.Lab007_enumapiconstants" />
+        <item itemvalue="Application.Lab006_Enum_URLS (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731329882794</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Class on 12th Lab excercise">
+      <option name="closed" value="true" />
+      <created>1731453288644</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1731453288644</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,6 +530,7 @@
     <MESSAGE value="Classes of OOps is getting updated with excercise &amp; Practice" />
     <MESSAGE value="Class on 8th oct with OOP's Polymorphisim &amp; encapsulation concepts&#10;adding class excercise" />
     <MESSAGE value="Class on 11th Lab excercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class on 11th Lab excercise" />
+    <MESSAGE value="Class on 12th Lab excercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class on 12th Lab excercise" />
   </component>
 </project>
